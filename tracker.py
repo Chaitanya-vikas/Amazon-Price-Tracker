@@ -7,7 +7,7 @@ import sqlite3
 # CONFIGURATION
 # ---------------------------------------------------------
 # You can change this URL to any product you want to track
-URL = 'https://www.amazon.in/Sony-WH-1000XM5-Cancelling-Headphones-Connectivity/dp/B09XS7JWHH'
+URL = 'https://amzn.in/d/j54u35V'
 DB_NAME = 'amazon_prices.db'
 
 HEADERS = {
